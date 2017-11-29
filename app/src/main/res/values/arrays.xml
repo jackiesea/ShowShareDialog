@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="share_title">
+        <item>QQ</item>
+        <item>微信</item>
+        <item>朋友圈</item>
+        <item>空间</item>
+        <item>微博</item>
+        <item>收藏</item>
+    </string-array>
+
+    <string-array name="share_icon">
+        <item>@drawable/share_icon</item>
+        <item>@drawable/share_icon</item>
+        <item>@drawable/share_icon</item>
+        <item>@drawable/share_icon</item>
+        <item>@drawable/share_icon</item>
+        <item>@drawable/share_icon</item>
+    </string-array>
+</resources>
